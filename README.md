@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maria Clara Pedrosa
 
-**| 'Apaixonada por Tecnologia`**
+**| Apaixonada por Tecnologia**
 
 Olá! Me chamo Maria Clara Pedrosa, sou estudante de Ciência da Computação, focando em **desenvolvimento** e **análise de dados**.  
 Aqui compartilho meus projetos, aprendizados e experiências.
@@ -27,8 +27,6 @@ Aqui compartilho meus projetos, aprendizados e experiências.
 ✉️ pedrosamariaclara5@gmail.com
 
 ---
-
-### 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clara-ppedrosa&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clara-ppedrosa&theme=tokyonight&layout=compact)
