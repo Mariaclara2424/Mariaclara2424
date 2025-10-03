@@ -28,5 +28,5 @@ Aqui compartilho meus projetos, aprendizados e experiências.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clara-ppedrosa&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clara-ppedrosa&theme=tokyonight&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariaclara2424&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaclara2424&theme=tokyonight&layout=compact)
