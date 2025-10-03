@@ -26,7 +26,4 @@ Aqui compartilho meus projetos, aprendizados e experiências.
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/clara_ppedrosa/)  
 ✉️ pedrosamariaclara5@gmail.com
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariaclara2424&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaclara2424&theme=tokyonight&layout=compact)
