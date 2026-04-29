@@ -1,6 +1,4 @@
-# Maria Clara Pedrosa
 
-**| Apaixonada por Tecnologia**
 
 Olá! Me chamo Maria Clara Pedrosa, sou estudante de Ciência da Computação, focando em **desenvolvimento** e **análise de dados**.  
 Aqui compartilho meus projetos, aprendizados e experiências.
