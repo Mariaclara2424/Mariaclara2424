@@ -5,7 +5,7 @@
 Olá! Me chamo Maria Clara Pedrosa, sou estudante de Ciência da Computação, focando em **desenvolvimento** e **análise de dados**.  
 Aqui compartilho meus projetos, aprendizados e experiências.
 ---
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,cs,postgres,mysql,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,html,css,cs,postgres,mysql,docker,java,josnb,)](https://skillicons.dev)
 ### 📫 me encontre
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-pedrosa/)  
