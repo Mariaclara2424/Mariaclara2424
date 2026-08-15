@@ -4,33 +4,40 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Transformando+dados+em+decis%C3%B5es;Back-end%2C+ETL+e+automa%C3%A7%C3%A3o;Tecnologia+com+prop%C3%B3sito+social" alt="Typing SVG" />
 
+<br/>
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento%20cont%C3%ADnuo-A855F7?style=flat-square)
+![Foco](https://img.shields.io/badge/foco-back--end%20%7C%20dados-EC4899?style=flat-square)
+![Local](https://img.shields.io/badge/local-Bras%C3%ADlia%2C%20DF-0D1117?style=flat-square)
+
 </div>
 
 ---
 
-### 👩‍💻 Sobre mim
+## `> whoami`
 
 ```python
 class MariaClara:
     def __init__(self):
-        self.formacao   = ["Ciência da Computação (CEUB)", "Gestão Ambiental (UnB)"]
-        self.foco       = ["Desenvolvimento", "Análise de Dados", "Automação"]
-        self.experiencia = ["Monitora de Gestão e Inovação (UnB)"]
-        self.interesses = ["IA", "Geotecnologia", "Sustentabilidade", "ESG"]
-        self.aprendendo  = "Sempre algo novo ✨"
+        self.formacao    = ["Ciência da Computação (CEUB)", "Gestão Ambiental (UnB)"]
+        self.foco        = ["Desenvolvimento", "Análise de Dados", "Automação"]
+        self.experiencia  = ["Monitora de Gestão e Inovação (UnB)"]
+        self.interesses  = ["IA", "Geotecnologia", "Sustentabilidade", "ESG"]
 
     def objetivo(self):
         return "Construir soluções que gerem impacto real"
 ```
 
-- 🎓 Estudante de **Ciência da Computação** no CEUB
-- 📊 Trabalho com **análise de dados, pipelines de ETL e automação** de processos
-- 🌱 Venho da **Gestão Ambiental (UnB)**, onde fui **monitora da disciplina de Gestão e Inovação** —
-- 📫 Fale comigo: **pedrosamariaclara5@gmail.com**
+```text
+[+] Estudante de Ciência da Computação no CEUB
+[+] Análise de dados, pipelines de ETL e automação de processos
+[+] Formação em Gestão Ambiental (UnB), com monitoria em Gestão e Inovação
+[+] Contato: pedrosamariaclara5@gmail.com
+```
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## `> stack`
 
 <div align="center">
 
@@ -38,7 +45,7 @@ class MariaClara:
 
 [![Linguagens](https://skillicons.dev/icons?i=python,java,js,cs,html,css)](https://skillicons.dev)
 
-**Back-end & Bancos de Dados**
+**Back-end e Bancos de Dados**
 
 [![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,dotnet,postgres,mysql,sqlite)](https://skillicons.dev)
 
@@ -46,7 +53,7 @@ class MariaClara:
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,wordpress)](https://skillicons.dev)
 
-**DevOps & Ferramentas**
+**DevOps e Ferramentas**
 
 [![Ferramentas](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,postman,vscode,figma,notion)](https://skillicons.dev)
 
@@ -54,31 +61,22 @@ class MariaClara:
 
 ---
 
-### 📈 GitHub em números
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mariaclara2424&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaclara2424&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&locale=pt-br&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=Mariaclara2424&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&locale=pt_BR" width="70%" />
-
-</div>
 
 ---
 
-### 🚀 Projetos em destaque
+## `> ls projetos/`
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Monitoria-de-LP**](https://github.com/Mariaclara2424/Monitoria-de-LP) | Materiais e exercícios de Linguagem de Programação | `Java` |
 | [**TIC**](https://github.com/Mariaclara2424/TIC) | Projetos de Tecnologia da Informação e Comunicação | `Web` |
 
-> 💡 Dá uma olhada nos [repositórios](https://github.com/Mariaclara2424?tab=repositories) para ver o resto do que ando construindo.
+Os demais estão em [repositórios](https://github.com/Mariaclara2424?tab=repositories).
 
 ---
 
-### 🌸 Onde me encontrar
+## `> contato`
 
 <div align="center">
 
@@ -88,11 +86,9 @@ class MariaClara:
 
 </div>
 
----
-
 <div align="center">
 
-*"A melhor forma de prever o futuro é construí-lo."*
+<sub>A melhor forma de prever o futuro é construí-lo.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
